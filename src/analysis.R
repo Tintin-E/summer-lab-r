@@ -1,0 +1,7 @@
+library(readr)
+library(dplyr)
+library(tidyr)
+library(ggplot2)
+library(purrr)
+library(car)
+library(rstatix)
